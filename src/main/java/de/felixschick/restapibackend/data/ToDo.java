@@ -1,5 +1,6 @@
 package de.felixschick.restapibackend.data;
 
+import lombok.Getter;
 import org.springframework.data.annotation.Id;
 
 public class ToDo {
