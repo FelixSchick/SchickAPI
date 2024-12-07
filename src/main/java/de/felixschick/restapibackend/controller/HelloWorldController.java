@@ -28,7 +28,7 @@ public class HelloWorldController {
                 "$$ |   $$   ____|$$ |$$ | $$  $$<        $$\\   $$ |$$ |      $$ |  $$ |$$ |$$ |      $$  _$$<\n" +
                 "$$ |   \\$$$$$$$\\ $$ |$$ |$$  /\\$$\\       \\$$$$$$  |\\$$$$$$$\\ $$ |  $$ |$$ |\\$$$$$$$\\ $$ | \\$$\\\n" +
                 "\\__|    \\_______|\\__|\\__|\\__/  \\__|       \\______/  \\_______|\\__|  \\__|\\__| \\_______|\\__|  \\__|\n + \n \n \n" +
-                "Powerd by Software from Felix Schick";
+                "Powered by software from Felix Schick under the direction of SchickTech Ltd.";
     }
 
     @GetMapping("/say/{whatEverYouWant}")
